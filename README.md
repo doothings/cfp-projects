@@ -31,8 +31,8 @@ We will be providing
 ### What we expect from you ?
 * Enthusiasm
 * Love for Open Source
-* Willingness to learn new technologies
-Also,
+* Willingness to learn new technologies  
+Also,  
 1. Programming skills
 2. Experience with Microcontrollers/Microprocessors
 
