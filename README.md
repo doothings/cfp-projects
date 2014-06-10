@@ -39,7 +39,7 @@ Also,
 ### How to apply ?
 1. Create a group of <=4 student
 2. Send a pull request consisting of
-   1. Your team details (name, email id)
+   1. Your team details (name, email id, GitHub username)
    2. Your college name
    3. Details about some of the interesting projects/seminars that you
       have been a part of.
