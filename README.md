@@ -22,6 +22,7 @@ We are looking to work with students in the following domains
    3. Networking
    4. Drones
    5. Computer Vision
+   6. Web
 
 We will be providing
  1. Mentorship & resources required for the project
@@ -33,12 +34,12 @@ We will be providing
 * Willingness to learn new technologies  
 Also,  
 1. Programming skills
-2. Experience with Microcontrollers/Microprocessors
+2. Experience with Microcontrollers/Microprocessors would be useful
 
 ### How to apply ?
 1. Create a group of <=4 student
 2. Send a pull request consisting of
-   1. Your team details (name, email id)
+   1. Your team details (name, email id, GitHub username)
    2. Your college name
    3. Details about some of the interesting projects/seminars that you
       have been a part of.
