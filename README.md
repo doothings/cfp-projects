@@ -2,51 +2,20 @@ doo-application
 ===============
 
 ### Who are we ?
-We are a group of doo'ers in Pune who work together on interesting
-projects and organize meetups around the same.
+These are the Team Details
 
-[Our Blog](http://internetofthings-pune.blogspot.in)  
-[Website](http://doothings.in)  
-[Meetup Page](www.meetup.com/The-Internet-of-Things/)  
-[Twitter](https://twitter.com/doothings)  
-[GitHub](https://github.com/doothings)  
+Team
 
-[Anuj Deshpande](https://github.com/anujdeshpande),
-[Nishant Modak](https://github.com/nishantmodak),
-[Dhiraj Jadhao](http://i-arduino.blogspot.in),
-[Prashant Tiwari](https://github.com/prashaantt)
+Varad Phatak ( varadphatak@gmail.com , varadphatak@live.in, Github Profile - LambuAta
+Aayush Sharma ( aayush.sharma257@gmail.com)
+Dheeraj Kalwani ( kalwanidheeraj09@gmail.com)
+College Details : MIT College of Engineering Pune 
+Department : Electronics and Telecommunication.
 
-### What's in store for you ?
-We are looking to work with students in the following domains
-   1. 3D printing
-   2. Internet of Things
-   3. Networking
-   4. Drones
-   5. Computer Vision
+Interests:
 
-We will be providing
- 1. Mentorship & resources required for the project
- 2. A platform to showcase/market your projects
-	
-### What we expect from you ?
-* Enthusiasm
-* Love for Open Source
-* Willingness to learn new technologies  
-Also,  
-1. Programming skills
-2. Experience with Microcontrollers/Microprocessors
+We basically are ready for Real Learning in whatever it is that we get. We believe that we will grow alot post this and really be more confident about all what happens soon. We are interested in Embedded and DIP aswell. But the Drones and 3D Printing do look very good.
 
-### How to apply ?
-1. Create a group of <=4 student
-2. Send a pull request consisting of
-   1. Your team details (name, email id)
-   2. Your college name
-   3. Details about some of the interesting projects/seminars that you
-      have been a part of.
-  4. Preferred domains
-  5. Interesting project ideas that you have
+So hoping we can meet soon and you can get to know what will suit us.
 
-### Questions ?
-
-* Create issues on this repo
-* [Mail](mailto:info@revealinghour.in)
+Thanks.
