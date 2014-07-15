@@ -11,6 +11,7 @@ projects and organize meetups around the same.
 [Twitter](https://twitter.com/doothings)  
 [GitHub](https://github.com/doothings)  
 
+[Anuj Deshpande](https://github.com/anujdeshpande),
 [Nishant Modak](https://github.com/nishantmodak),
 [Dhiraj Jadhao](http://i-arduino.blogspot.in),
 [Prashant Tiwari](https://github.com/prashaantt)
